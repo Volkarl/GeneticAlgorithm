@@ -1,5 +1,7 @@
 # P1-Program
 
+*Note: this program is not functional, it does not work as intended and was abandoned at the end of the semester*
+
 **Indhold**
 
 - [HOW TO MAKEFILE](#how-to-makefile)
